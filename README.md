@@ -100,24 +100,6 @@ This plugin allows you to display a beautiful sliding menu with content on the c
 
 [Demo](https://andrey1787.github.io/jquery.navigation-1.0.0/)
 
-# Documentation
-## Configurations
-
-> Example of a **navigation** object with configurations:
-
-	$('ul.navigate').navigate({
-		indent : 10
-	});
-
-## Basic Configuration
-
-***The configuration options are passed into the navigation as an object on creation.***
-
-| Config Property | Property Type | Example |      
-     Description         | Default |
-| :-------------: | :-----------: | :-----: | :---------: | :-----: |
-| indent          | integer       | 5       | Indent the content from the navigation menu | 10      |
-
 > If you want to change the width or height of the navigation, then create your css file, e.g. style.css and connect it below the file jquery.navigation-1.0.0.css.
 
 ```html
